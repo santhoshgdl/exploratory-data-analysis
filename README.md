@@ -1,2 +1,2 @@
-# exploratory-data-analysis
-Basic SQL Server EDA project exploring business data through database, dimension, date, magnitude, and ranking analysis. Includes aggregations, joins, date functions, and window functions to identify trends, patterns, and key insights from the dataset.
+# sql-data-analytics-project
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
